@@ -1,9 +1,9 @@
 # Modern-Minesweeper
- Modern Minesweeper
+ 
 
 A fresh, stylish twist on the classic Minesweeper game!
 Built with HTML, CSS, and JavaScript, Modern Minesweeper blends retro gameplay with a sleek, animated interface, smooth sounds, and a satisfying win celebration
-Features:
+Features:-
 
  Modern UI with glassmorphism & animated gradient background
 
@@ -17,7 +17,7 @@ Features:
 
  Random mine placement each game for endless replayability
  
- How to Play:
+ How to Play:-
 
 Click on a cell to reveal it.
 
@@ -28,7 +28,8 @@ Avoid the 💣 mines — one wrong click and it’s game over!
 Reveal all safe cells to win.
 
 Hit the 🔁 Restart button anytime for a fresh game.
-Tech Stack:
+
+Tech Stack:-
 
 HTML5 – Structure
 
